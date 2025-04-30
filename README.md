@@ -27,6 +27,10 @@ This commands includes
 <BR>
 
 ## Output
+![Screenshot 2025-04-30 105405](https://github.com/user-attachments/assets/1c9f5a34-2890-4633-901a-c320fd98c161)
+![Screenshot 2025-04-30 105224](https://github.com/user-attachments/assets/fcc26659-97ff-452d-9d33-456f28e18344)
+![Screenshot 2025-04-30 103539](https://github.com/user-attachments/assets/09d2f927-3a0e-4696-95e9-53e6237efe06)
+
 
 ## Result
 Thus Execution of Network commands Performed 
